@@ -15,6 +15,12 @@ Kaggle TGS Salt Identification Challenge Keras and PyTorch Application
 * Pdf of a a complete run of my winning solution on google cloud server.
 * A Kaggle notebook version of Pytorch implementation(1) and a Keras implementation(2).
 
+# Links
+* [Kaggle Notebook Keras Implementation](https://www.kaggle.com/gaelblanch/optimal-unet-beyond-a/code) 
+  * Didn't have enough ram and gpu so switched to google cloud solution.
+  * Shows the data preparation files that contributed to the notebook
+
+
 
 
 # Brief Overview
