@@ -1,7 +1,7 @@
 # kaggle-tgs-salt-data
 Kaggle TGS Salt Identification Challenge Keras and PyTorch Application
 * [Competition Website](https://www.kaggle.com/c/tgs-salt-identification-challenge)
-* [The Public Leaderboard](https://www.kaggle.com/c/tgs-salt-identification-challenge/leaderboard)
+* [The Public Leaderboard](https://www.kaggle.com/c/tgs-salt-identification-challenge/leaderboard) Search for Gael Blanchard
 * Designed a nueral network that analyzed seismic imaging and generated segmentation masks representing salt deposits present within the image.
 * Implemented Activations and Modules based off arxiv papers
 * Finished in Top 13% beating out 2700+ competitors
